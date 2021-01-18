@@ -1,0 +1,60 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    max-width: 100%;
+}
+
+nav{
+    background-color: orange;
+    height: 39px;
+}
+nav a{
+    display: block;
+    color: rgb(26, 3, 110);
+    text-decoration: none;
+    width: 200px;
+    padding: 10px 20px;
+    text-align: center;
+    float: left;
+}
+
+nav a:hover{
+    background-color: rgb(202, 169, 18);
+}
+h1{
+    clear: both;
+    font-family: sans-serif;
+    color: rgb(255, 0, 0);
+    background-color: rgb(32, 18, 228);
+    margin: 0px;
+    padding: 30px;
+}
+
+li{
+    font-family: sans-serif;
+}
+
+p{
+    font-family: sans-serif;
+}
+
+a{
+    font-family: sans-serif;
+}
+
+body{
+    background-color: rgb(199, 140, 194);
+}
+
+footer{
+    background-color: rgb(255, 255, 255);
+    color: rgb(192, 19, 48);
+    padding: 10px, 30px;
+}
+
+section{
+    /* background-color: white; */
+}
